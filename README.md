@@ -6,11 +6,11 @@
 
 ## Install
 
-All instructions can be found at [INSTALL.md](./INSTALL.md).
+All instructions can be found at [draculatheme.com/godot](https://draculatheme.com/godot).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/damiiani/dracula-godot/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/godot/graphs/contributors).
 
 [![Gustavo Damiani](https://avatars0.githubusercontent.com/u/62670144?s=60&v=4)](https://github.com/damiiani) |
 :---: |
