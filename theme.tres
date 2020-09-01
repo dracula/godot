@@ -1,3 +1,6 @@
+[gd_resource type="EditorSettings" format=2]
+
+[resource]
 interface/theme/preset = "Custom"
 interface/theme/base_color = Color( 0.156863, 0.164706, 0.211765, 1 )
 interface/theme/accent_color = Color( 0.741176, 0.576471, 0.976471, 1 )
