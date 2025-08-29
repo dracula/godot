@@ -1,6 +1,6 @@
 # Dracula for [Godot](https://godotengine.org)
 
-> A dark theme for [Godot](https://godotengine.org).
+> A dark theme for [Godot Engine](https://godotengine.org).
 
 ![Screenshot](./screenshot.png)
 
@@ -12,15 +12,19 @@ All instructions can be found at [draculatheme.com/godot](https://draculatheme.c
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/godot/graphs/contributors).
 
-| [![Gustavo Damiani](https://avatars0.githubusercontent.com/u/62670144?s=60&v=4)](https://github.com/damiiani) |
-| :-----------------------------------------------------------------------------------------------------------: |
-|                                [Gustavo Damiani](https://github.com/damiiani)                                 |
+| [![Gustavo Damiani](https://github.com/github.png?size=100)](https://github.com/damiiani) | [![Abdul Hannan Ahmed](https://github.com/hannan-ahmad.png?size=100)](https://github.com/hannan-ahmad) |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [Gustavo Damiani](https://github.com/damiiani)                                            | [Abdul Hannan Ahmed](https://github.com/hannan-ahmad)                                                  |
 
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
 - [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
 - [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+
+## Dracula PRO
+
+[![Dracula PRO](./.github/dracula-pro.png)](https://draculatheme.com/pro)
 
 ## License
 
